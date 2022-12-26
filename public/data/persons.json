@@ -1,0 +1,191 @@
+{
+	"persons": [{
+		"person": {
+			"statistics": {
+				"requirements_passed": 3,
+				"requirements_missing": 0,
+				"requirements_not_due": 10,
+				"requirements_total": 13
+			},
+			"roles": [{
+				"ombudsman": null,
+				"statistics": {
+					"requirements_passed": 3,
+					"requirements_missing": 0,
+					"requirements_not_due": 10
+				},
+				"display_name": "Leder HK",
+				"role_type_role_type_id": 3,
+				"default_locale": "en",
+				"list_order": null,
+				"deactivated": 0,
+				"row_type": "person",
+				"owner_person_person_id": null,
+				"role_id": 17,
+				"role": "leder hk",
+				"representative": null,
+				"position": 0,
+				"owner_org_organisation_id": null,
+				"description": ""
+			}],
+			"firstname": "Daniel",
+			"mobile": "5555555",
+			"lastname": "Dahlberg",
+			"image": "../assets/1.png",
+			"pid": 7525,
+			"birthdate": "",
+			"fullname": "Daniel Dahlberg"
+		}
+	}, {
+		"person": {
+			"statistics": {
+				"requirements_passed": 0,
+				"requirements_missing": 6,
+				"requirements_not_due": 14,
+				"requirements_total": 20
+			},
+			"roles": [{
+				"ombudsman": null,
+				"statistics": {
+					"requirements_passed": 0,
+					"requirements_missing": 0,
+					"requirements_not_due": 13
+				},
+				"display_name": "Leder HK",
+				"role_type_role_type_id": 3,
+				"default_locale": "en",
+				"list_order": null,
+				"deactivated": 0,
+				"row_type": "person",
+				"owner_person_person_id": null,
+				"role_id": 17,
+				"role": "leder hk",
+				"representative": null,
+				"position": 0,
+				"owner_org_organisation_id": null,
+				"description": ""
+			}, {
+				"ombudsman": null,
+				"statistics": {
+					"requirements_passed": 0,
+					"requirements_missing": 6,
+					"requirements_not_due": 1
+				},
+				"display_name": "Senterdirekt\u00f8r",
+				"role_type_role_type_id": 4,
+				"default_locale": "en",
+				"list_order": null,
+				"deactivated": 0,
+				"row_type": "person",
+				"owner_person_person_id": null,
+				"role_id": 4,
+				"role": "senterdirekt\u00f8r",
+				"representative": null,
+				"position": 0,
+				"owner_org_organisation_id": null,
+				"description": ""
+			}],
+			"firstname": "Petter",
+			"mobile": "",
+			"lastname": "Enholm",
+			"image": "../assets/96.png",
+			"pid": 5404,
+			"birthdate": "",
+			"fullname": "Petter Enholm"
+		}
+	}, {
+		"person": {
+			"statistics": {
+				"requirements_passed": 0,
+				"requirements_missing": 2,
+				"requirements_not_due": 0,
+				"requirements_total": 2
+			},
+			"roles": [{
+				"ombudsman": null,
+				"statistics": {
+					"requirements_passed": 0,
+					"requirements_missing": 2,
+					"requirements_not_due": 0
+				},
+				"display_name": "Medarbeider HK",
+				"role_type_role_type_id": 1,
+				"default_locale": "en",
+				"list_order": null,
+				"deactivated": 0,
+				"row_type": "person",
+				"owner_person_person_id": null,
+				"role_id": 14,
+				"role": "medarbeider hk",
+				"representative": null,
+				"position": 0,
+				"owner_org_organisation_id": null,
+				"description": ""
+			}],
+			"firstname": "Morten",
+			"mobile": "",
+			"lastname": "Krane",
+			"image": "../assets/97.png",
+			"pid": 4951,
+			"birthdate": "",
+			"fullname": "Morten Krane"
+		}
+	}, {
+		"person": {
+			"statistics": {
+				"requirements_passed": 2,
+				"requirements_missing": 5,
+				"requirements_not_due": 13,
+				"requirements_total": 20
+			},
+			"roles": [{
+				"ombudsman": null,
+				"statistics": {
+					"requirements_passed": 1,
+					"requirements_missing": 0,
+					"requirements_not_due": 12
+				},
+				"display_name": "Leder HK",
+				"role_type_role_type_id": 3,
+				"default_locale": "en",
+				"list_order": null,
+				"deactivated": 0,
+				"row_type": "person",
+				"owner_person_person_id": null,
+				"role_id": 17,
+				"role": "leder hk",
+				"representative": null,
+				"position": 0,
+				"owner_org_organisation_id": null,
+				"description": ""
+			}, {
+				"ombudsman": null,
+				"statistics": {
+					"requirements_passed": 1,
+					"requirements_missing": 5,
+					"requirements_not_due": 1
+				},
+				"display_name": "Senterdirekt\u00f8r",
+				"role_type_role_type_id": 4,
+				"default_locale": "en",
+				"list_order": null,
+				"deactivated": 0,
+				"row_type": "person",
+				"owner_person_person_id": null,
+				"role_id": 4,
+				"role": "senterdirekt\u00f8r",
+				"representative": null,
+				"position": 0,
+				"owner_org_organisation_id": null,
+				"description": ""
+			}],
+			"firstname": "Jostein",
+			"mobile": "93400328",
+			"lastname": "Leira",
+			"image": "../assets/1.png",
+			"pid": 1,
+			"birthdate": "",
+			"fullname": "Jostein Leira"
+		}
+	}]
+}
