@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useState } from "react";
 
 export default function Form() {
-  const [message, setMessage] = useState('');
+  const [message, setMessage] = useState("");
 
   const [updated, setUpdated] = useState(message);
 
@@ -11,8 +11,6 @@ export default function Form() {
 
   const handleClick = () => {
     // 👇 "message" stores input field value
-
-    
 
     setUpdated(message);
   };
